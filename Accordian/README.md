@@ -7,3 +7,4 @@ task - 2
 just enable multi selection at a time to select more than one task to view
 
 output should looks like this
+screenshot
