@@ -1,8 +1,7 @@
-# React + Vite
+`Make Random Color Generator with following Properties :: `
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Make Hex button with clicking it will generate Random Color and represent in color digits in heading form
+2. Make Similar as for rgb it will represent RGB numbers and each time generate Random rgb.
+3. Generate Random It can give any random use of both of above methods
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Output should be looks like Output.png
