@@ -1,4 +1,4 @@
-`Make Random Color Generator with following Properties :: `
+Make Random Color Generator with following Properties ::
 
 1. Make Hex button with clicking it will generate Random Color and represent in color digits in heading form
 2. Make Similar as for rgb it will represent RGB numbers and each time generate Random rgb.
