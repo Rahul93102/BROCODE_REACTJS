@@ -5,8 +5,8 @@ import Index from "./components/Load-more-data/Index";
 const App = () => {
   return (
     <div>
-      {/* <Slider url={"https://picsum.photos/v2/list"} page={"1"} limit={"10"} />{" "} */}
-      <Index />
+      <Slider url={"https://picsum.photos/v2/list"} page={"1"} limit={"10"} />{" "}
+      {/* <Index /> */}
     </div>
   );
 };
