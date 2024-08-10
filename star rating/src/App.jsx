@@ -1,10 +1,10 @@
 import React from "react";
-import Generator from "./Generator";
+import Rating from "./Rating";
 
 const App = () => {
   return (
     <div>
-      <Generator />
+      <Rating />
     </div>
   );
 };
