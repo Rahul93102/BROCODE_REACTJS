@@ -91,6 +91,15 @@ html {
   line-height: 1.5;
 }
 
+/* Modal Footer */
+.footer {
+  background-color: #28a745;
+  color: #fff;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  text-align: right; /* Align buttons to the right */
+}
+
 /* Animation for Modal */
 @keyframes animateModal {
   from {
